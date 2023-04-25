@@ -6,3 +6,5 @@ Reading note for course 102n4
 
 2. Why do we use Markdown?
 
+``Use `code` in your Markdown file.``
+
