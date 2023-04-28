@@ -8,4 +8,13 @@ Reading note for course 102n4
 
 Use \`code\` in your Markdown file.
 
+<!-- Git Status -->
+git status 
 
+<!-- Git FLOW: acp -->
+
+git add <file>
+
+git commit
+
+git push
