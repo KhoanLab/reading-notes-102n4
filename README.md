@@ -13,8 +13,8 @@ git status
 
 <!-- Git FLOW: acp -->
 
-git add <file>
+git add <file>  // staged
 
-git commit
+git commit -m "message code..."  // commit #id
 
-git push
+git push origin main
